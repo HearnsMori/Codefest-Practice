@@ -131,6 +131,8 @@
             app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword" />
 
         <EditText
+            app:backgroundTint="@null"
+            android:background="@drawable/edit_text"
             android:id="@+id/editTextTextPassword"
             android:layout_width="262dp"
             android:layout_height="42dp"
